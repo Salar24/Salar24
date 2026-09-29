@@ -87,7 +87,9 @@ I'm a **Software Engineer** with 2+ years of professional experience building an
 ### 📫 Get in touch
 
 <p>
+  <a href="https://www.linkedin.com/in/raja-salar-abbas-766000241/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Salar24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Springfield%2C%20Illinois-555555?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
 <div align="center">
