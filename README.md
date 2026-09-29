@@ -75,8 +75,8 @@ I'm a **Software Engineer** with 2+ years of professional experience building an
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Salar24&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salar24&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="top languages"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Salar24&theme=tokyonight" alt="stats"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Salar24&theme=tokyonight" alt="top languages"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salar24&hide_border=true&theme=tokyonight" alt="streak"/>
 
