@@ -64,6 +64,7 @@ I'm a **Software Engineer** with 2+ years of professional experience building an
 
 | Project | What it is | Stack |
 |---|---|---|
+| ⚡ **[ratelimited-api](https://github.com/Salar24/ratelimited-api)** | URL-shortening API with a distributed token-bucket rate limiter (atomic Redis Lua), multi-replica Compose stack, Prometheus/Grafana, and end-to-end CI | Go · Redis · Postgres · Docker · Prometheus |
 | 🏗️ **[Smarchitect](https://github.com/Salar24/Smarchitect)** | AI-powered floor plan generator with a full-stack app to create, edit, store and visualize structures | JavaScript · AI · Full-stack |
 | 🔗 **[Meshjoin](https://github.com/Salar24/Meshjoin)** | Stream-based MESHJOIN operator that transforms relational (OLTP) data into a format ready for data warehouses | Java · Data Warehousing · ETL |
 | 🏫 **[Apna School](https://github.com/Salar24/Apna-School-Website)** | School management system covering day-to-day admin through complex workflows | JavaScript · Full-stack |
