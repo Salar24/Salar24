@@ -66,6 +66,7 @@ I'm a **Software Engineer** with 2+ years of professional experience building an
 |---|---|---|
 | ⚡ **[ratelimited-api](https://github.com/Salar24/ratelimited-api)** | URL-shortening API with a distributed token-bucket rate limiter (atomic Redis Lua), multi-replica Compose stack, Prometheus/Grafana, and end-to-end CI | Go · Redis · Postgres · Docker · Prometheus |
 | ☸️ **[k8s-platform](https://github.com/Salar24/k8s-platform)** | Kubernetes platform for ratelimited-api: hardened Helm chart, ArgoCD GitOps (dev/prod), and CI that proves zero-downtime rollouts and network isolation on a multi-node cluster | Kubernetes · Helm · ArgoCD · kind |
+| ☁️ **[terraform-aws-platform](https://github.com/Salar24/terraform-aws-platform)** | AWS infrastructure for the stack, built from scratch: 3-AZ VPC, hardened EKS, RDS Postgres, ElastiCache Valkey, GitHub OIDC, and 22 mocked-provider tests | Terraform · AWS · EKS · RDS |
 | 🏗️ **[Smarchitect](https://github.com/Salar24/Smarchitect)** | AI-powered floor plan generator with a full-stack app to create, edit, store and visualize structures | JavaScript · AI · Full-stack |
 | 🔗 **[Meshjoin](https://github.com/Salar24/Meshjoin)** | Stream-based MESHJOIN operator that transforms relational (OLTP) data into a format ready for data warehouses | Java · Data Warehousing · ETL |
 | 🏫 **[Apna School](https://github.com/Salar24/Apna-School-Website)** | School management system covering day-to-day admin through complex workflows | JavaScript · Full-stack |
